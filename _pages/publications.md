@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Indovina Tweet 
+====
+This project involved developing some machine learning models able to predict the author of a tweet out of
+a group of "similar" authors (e.g. in terms of profession).
+It was presented at the Bocconi stand of the MeetMeTonight night in Milan (2019). 
