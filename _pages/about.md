@@ -11,8 +11,9 @@ redirect_from:
 Email:
 
 martina.cioffi@live.it
+
 martina.cioffi@studbocconi.it
 
 LinkedIn:
 
-https://www.linkedin.com/in/martina-cioffi-578343115/
+[https://www.linkedin.com/in/martina-cioffi-578343115/](https://www.linkedin.com/in/martina-cioffi-578343115/)
