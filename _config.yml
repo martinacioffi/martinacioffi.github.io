@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martina Cioffi"
 title_separator          : "-"
 name                     : &name "Martina Cioffi"
-description              : &description "Data Science and Business nalytics student"
+description              : &description "Data Science and Business Analytics student"
 url                      : https://martinacioffi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "martinacioffi.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
