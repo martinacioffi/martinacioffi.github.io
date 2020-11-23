@@ -34,7 +34,7 @@ Work experience
 Education
 ======
 
-* M.S. in Data Science and Business Analytics (DSBA), Bocconi University, (expected) July 2020
+* M.S. in Data Science and Business Analytics (DSBA), Bocconi University, 2020
 
 * B.S. in International Economics and Management (BIEM), Bocconi University, 2018
 
