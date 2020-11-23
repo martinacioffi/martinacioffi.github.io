@@ -9,10 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in International Economics and Management (BIEM), Bocconi University, 2018
-* M.S. in Data Science and Business Analytics (DSBA), Bocconi University, (expected) July 2020
+
 
 Work experience
 ======
@@ -33,4 +30,12 @@ Work experience
 * July 2019 - September 2019: Data Scientist Intern
   * Nextbit (Milan, Italy)
   * Duties included: Development of a chatbot for a banking app
+  
+Education
+======
+
+* M.S. in Data Science and Business Analytics (DSBA), Bocconi University, (expected) July 2020
+
+* B.S. in International Economics and Management (BIEM), Bocconi University, 2018
+
   
